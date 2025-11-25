@@ -1,6 +1,6 @@
 #  Gemini Movie Buff Agent
 
-A "Level 2" Agentic AI application built with Python. This project demonstrates how to connect **Google's Gemini 1.5 Flash** to real-world data sources using **Function Calling (Tool Use)**.
+This project demonstrates how to connect **Google's Gemini 1.5 Flash** to real-world data sources using **Function Calling (Tool Use)**.
 
 Unlike a standard chatbot that creates fiction, this agent retrieves factual, real-time data from the **OMDb API**, filters it for relevance, and synthesizes a natural language response.
 
